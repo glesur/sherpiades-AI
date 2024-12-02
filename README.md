@@ -7,6 +7,7 @@ This repository contains a tutorial demonstrating a regression procedure using n
 If you have git on your system you can simply go in the directory of your choice and:
 ```
 git clone https://github.com/glesur/sherpiades-AI.git
+cd sherpiades-AI
 ```
 
 If you don't have git, download the zip file from the "code" button, and inflate it in the directory of your choice.
