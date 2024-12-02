@@ -23,6 +23,8 @@ In order to use the tutorial, you need to download the simulation dataset (about
 
 This script will install a dedicated python environment in the "env" directory of the tutorial. Hence, your system will be left untouched (feel free to delete the whole tutorial directory when you're done).
 
+This install script requires 
+
 
 ## Start the tutorial
 
