@@ -20,7 +20,7 @@ In order to use the tutorial, you need to download the simulation dataset (about
 ./install.sh
 ```
 
-This script will install a dedicated python environement in the "env" directory of the tutorial. Hence, your system will be left untouched (feel free to delete the whole tutorial directory when you're done).
+This script will install a dedicated python environment in the "env" directory of the tutorial. Hence, your system will be left untouched (feel free to delete the whole tutorial directory when you're done).
 
 
 ## Start the tutorial
@@ -33,4 +33,4 @@ To start the tutorial (once you have installed it!):
 
 ## Troubleshooting
 
-If you have problem, as Geoff!
+If you have problem, ask Geoff!
