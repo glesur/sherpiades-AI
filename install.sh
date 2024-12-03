@@ -19,7 +19,8 @@ pip install -r requirements.txt
 
 echo "*******************************"
 echo "*******************************"
-echo "Lucky you! it worked!"
+echo "if there is no error above, then"
+echo "you're lucky! it worked!"
 echo "you can now proceed with the tutorial"
 echo "*******************************"
 echo "*******************************"

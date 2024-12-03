@@ -44,7 +44,7 @@ If you don't have git, download the zip file from the "code" button, and inflate
 
 ## Installation
 
-In order to use the tutorial, you need to download the simulation dataset (about 1GB), and a bunch of python packages. This is all done automatically done for you by launching the install script. Note that you need to perform this operation only once.
+In order to use the tutorial, you need to download the simulation dataset (about 1GB), and a bunch of python packages. This is all done automatically for you by the install script. Note that you need to perform this operation only once.
 
 ```
 ./install.sh
@@ -63,4 +63,4 @@ To start the tutorial (once you have installed it!):
 
 ## Troubleshooting
 
-If you have problem, ask Geoff!
+If you have problem, ask Geoff (and bring some chocolate)!
