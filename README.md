@@ -2,6 +2,35 @@
 
 This repository contains a tutorial demonstrating a regression procedure using neural networks of a 3D MRI simulation performed with Idefix
 
+## Prerequisites
+
+This tutorial will download a bunch of python packages and create a virtual environment so as not to mess around with your system. To do so, you still need to have a python interpreter on your system (python>=3.7 should work) and virtualenv. To install virtualenv, you can use the following, depending on your system/package manager:
+
+### With a working python installation with pip:
+```
+pip install virtualenv
+```
+
+### On Debian 
+
+...because Debian people are known to be complicated:
+
+```
+sudo apt-get install python3-venv
+```
+
+### On MacOs without pip but with homebrew:
+```
+brew install virtualenv
+```
+
+### On Windows:
+```
+format c:
+```
+and install a descent Unix-compliant system
+
+
 ## Download
 
 If you have git on your system you can simply go in the directory of your choice and:
