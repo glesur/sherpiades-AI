@@ -5,7 +5,9 @@ echo "*******************************"
 echo "Downloading dataset"
 echo "*******************************"
 echo "*******************************"
-wget https://ipag.osug.fr/~lesurg/sherpiades/timevol_2.dat
+
+#wget https://ipag.osug.fr/~lesurg/sherpiades/timevol_2.dat
+curl https://ipag.osug.fr/~lesurg/sherpiades/timevol_2.dat > timevol_2.dat
 
 echo "*******************************"
 echo "*******************************"
