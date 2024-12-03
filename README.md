@@ -4,7 +4,7 @@ This repository contains a tutorial demonstrating a regression procedure using n
 
 ## Prerequisites
 
-This tutorial will download a bunch of python packages and create a virtual environment so as not to mess around with your system. To do so, you still need to have a python interpreter on your system (python>=3.7 should work) and virtualenv. To install virtualenv, you can use the following, depending on your system/package manager:
+This tutorial will download a bunch of python packages and create a virtual environment so as not to mess around with your system. To do so, you still need to have a python interpreter on your system (python>=3.8 should work) and virtualenv. To install virtualenv, you can use the following, depending on your system/package manager:
 
 ### With a working python installation with pip:
 ```
