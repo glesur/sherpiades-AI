@@ -1,4 +1,4 @@
-tensorflow>=2.13
+tensorflow>=2.10
 notebook>=7.2
 keras>=2.13
 matplotlib>=3.7
